@@ -1,6 +1,6 @@
-# HermesGoogleApi
+# Riano Automation Hub
 
-Personal OAuth information site for a self-hosted Hermes Agent automation using Google Calendar and Google Tasks.
+Personal OAuth information site for self-hosted automation using Google APIs, including Google Calendar and Google Tasks.
 
 ## Pages
 
